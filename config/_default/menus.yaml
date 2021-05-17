@@ -25,7 +25,7 @@ main:
   - name: myPage
     url: 'myPage/'
     weight: 70
-  - name: My News
+  - name: MyNews
     url: 'mynews/'
     weight: 80
 
